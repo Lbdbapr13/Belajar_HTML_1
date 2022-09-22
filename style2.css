@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+    color: brown;
+    font-style: oblique;
+}
+h1 {
+    font-size: 75px;
+    font-weight: lighter;
+    font-variant:small-caps;
+}
+P{
+    font-family: 'Times New Roman', Times, serif;
+}
